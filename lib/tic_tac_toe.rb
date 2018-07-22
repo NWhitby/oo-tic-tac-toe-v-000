@@ -1,3 +1,3 @@
 class TicTacToe
-
-end 
+  def initialize=
+end
