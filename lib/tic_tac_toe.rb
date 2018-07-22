@@ -1,1 +1,3 @@
-class TicTac
+class TicTacToe
+
+end 
